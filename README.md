@@ -1,7 +1,11 @@
 ## __Group Project 01__
 
+<<<<<<< HEAD
 #To Analyze 2017 Standard League Fantasy football data with the following arguements below
 
+=======
+#To analyze 2017 Standard League Fantasy football data with the following arguements below
+>>>>>>> 14f4b3ff65a78864b054008139d65281c19b2a71
 
 #The success of any draft is predicated on:
 
