@@ -1,4 +1,12 @@
-# __Group Project 01__
+## __Group Project 01__
+
+#Analyze 2017 Standard League Fantasy football data with the following arguements below
+
+##The success of any draft is predicated on:
+#1) Selection of top 5 players from each of the skill position (QB, WR, RB) will generally outperform the remainder of the field.
+
+#2) There is a significant talent gap from top 5 players from each of the skill position compared to “the field”.
+
+#3) A top 5 running back value is incrementally greater than the aforementioned skill positions.
+
 ## __Authors__: Mitchell Muth | Elbert Washington | Bryce Basista
-# __Proposal:__ 
-## In a "DraftKings" type league, where the the Top five Quarterbacks(QB), Running Backs (RB), and Wide Receivers(RB) change and are picked each week. The Top 5 players of each position, each week, will score more points, on aggregate, versus the the rest of the 'field', per week, and over the period of the entire season. In a standard league that is picked in the beginning of the season, and is unchanged throughout the year, unlike a "DraftKings" league, the same outcome will occur.
